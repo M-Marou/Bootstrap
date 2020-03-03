@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Documentation on Bootstrap!",
+  "main": "index.js",
+  "scripts": {
+    "watch-sass": "node-sass -w sass -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M-Marou/Bootstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M-Marou/Bootstrap/issues"
+  },
+  "homepage": "https://github.com/M-Marou/Bootstrap#readme",
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
