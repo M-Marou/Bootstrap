@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/M-Marou/Bootstrap#readme",
   "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
     "node-sass": "^4.13.1"
   }
 }
